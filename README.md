@@ -1,2 +1,2 @@
 # EntrepriseSalaire
-Un site qui permet de gérer les entrées et dépense financière d'une entreprise
+Un site qui permet de gérer les entrées et dépense financière d'une entreprise ou d'un foyer
